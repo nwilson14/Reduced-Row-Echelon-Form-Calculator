@@ -20,3 +20,5 @@ using two for loops to locate each leading 1 again.
 Furthermore, the algorithm cannot handle rows of 0's yet. This still needs to be implemented in the program.
 
 To make the program nicer to look at and use, a UI will be created using pygame. For now, the program outputs each step and how the matrix changes. It is outputted onto the terminal.
+
+I am aware that in Python the library "sympy" has a built-in function that can find the reduced row echelon form of a Matrix, Matrix.rref(). I did this project as a fun way to test myself and my understanding of the process to reduce a Matrix to reduced row echelon form and to get some practice coding :D.
