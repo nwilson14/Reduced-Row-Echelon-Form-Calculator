@@ -18,3 +18,5 @@ When finding Reduced Row Echelon Form, the algorithm finds all the leading 1's i
 using two for loops to locate each leading 1 again.
 
 Furthermore, the algorithm cannot handle rows of 0's yet. This still needs to be implemented in the program.
+
+To make the program nicer to look at and use, a UI will be created using pygame. For now, the program outputs each step and how the matrix changes. It is outputted onto the terminal.
